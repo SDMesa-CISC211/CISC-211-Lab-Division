@@ -93,6 +93,8 @@ IsDebug="true"
 else
 IsDebug="false"
 endif
+MDFUHostPath="C:\Users\lunch\AppData\Roaming\mplab_ide\dev\v6.25\bin\windows\pymdfu-bin.exe"
+PYFWImageBuilderPath="C:\Users\lunch\AppData\Roaming\mplab_ide\dev\v6.25\bin\windows\pyfwimagebuilder-bin.exe"
 
 .build-conf:  ${BUILD_SUBPROJECTS}
 ifneq ($(INFORMATION_MESSAGE), )

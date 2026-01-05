@@ -47,3 +47,4 @@ Makefile-*
 Lab-05-starter/firmware/Lab-05-starter.X/nbproject/Makefile-genesis.properties
 Lab-05-starter/firmware/Lab-05-starter.X/nbproject/Makefile-local-sam_e51_cnano.mk
 Lab-05-starter/firmware/Lab-05-starter.X/nbproject/Makefile-sam_e51_cnano.mk
+*.swp
