@@ -45,3 +45,9 @@ dist/
 *.*~
 .DS_Store
 private/
+**/nbproject/Makefile-*
+**/.generated_files/
+**/.main-meta/
+**/firmware/**/*.inx
+**/firmware/**/*.log
+
