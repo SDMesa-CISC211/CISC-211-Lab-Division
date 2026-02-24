@@ -73,7 +73,6 @@ asmFunc:
  
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
-
     
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
 
